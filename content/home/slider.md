@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Roof Inspections"
-  content = "that meet your needs."
+  content = "that meet your needs"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -49,4 +49,4 @@ height = ""
 #  overlay_color = "#333"  # An HTML color value.
 #  overlay_img = ""  # Image path relative to your `static/media/` folder.
 #  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-+++
+#+++
